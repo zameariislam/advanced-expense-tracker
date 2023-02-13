@@ -1,0 +1,28 @@
+{
+  "transactions": [
+    {
+      "name": "ABCXXX",
+      "type": "expense",
+      "amount": 10000,
+      "id": 1
+    },
+    {
+      "name": "BSD",
+      "type": "expense",
+      "amount": 500,
+      "id": 2
+    },
+    {
+      "name": "SWEDEN",
+      "type": "income",
+      "amount": 3400,
+      "id": 3
+    },
+    {
+      "name": "XXXX",
+      "type": "income",
+      "amount": 7100,
+      "id": 4
+    }
+  ]
+}
